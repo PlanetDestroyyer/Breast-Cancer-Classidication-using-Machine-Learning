@@ -27,10 +27,9 @@ Target Variable:
 
 Project Structure
 -----------------
-- `breast_cancer_detection.ipynb`: Jupyter Notebook containing the code for data exploration, preprocessing, model building, and evaluation.
+- `Breast Cancer Classidication using Machine Learning.ipynb`: Jupyter Notebook containing the code for data exploration, preprocessing, model building, and evaluation.
 - `README.md`: This file, providing an overview of the project.
-- `data/`: Directory containing the dataset files.
-- `figures/`: Directory containing visualizations generated during data exploration and analysis.
+- `data.csv`: File containing the dataset files.
 
 Dependencies
 ------------
@@ -49,7 +48,7 @@ Getting Started
     https://github.com/PlanetDestroyyer/Breast-Cancer-Classidication-using-Machine-Learning.git
     ```
 
-2. Open and run the `breast_cancer_detection.ipynb` notebook in Jupyter or any compatible environment.
+2. Open and run the `Breast Cancer Classidication using Machine Learning.ipynb` notebook in Jupyter or any compatible environment.
 
 Model Evaluation
 ----------------
