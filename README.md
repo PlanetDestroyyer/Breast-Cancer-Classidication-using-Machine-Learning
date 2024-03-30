@@ -46,16 +46,10 @@ Getting Started
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/breast-cancer-detection.git
+    https://github.com/PlanetDestroyyer/Breast-Cancer-Classidication-using-Machine-Learning.git
     ```
 
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Open and run the `breast_cancer_detection.ipynb` notebook in Jupyter or any compatible environment.
+2. Open and run the `breast_cancer_detection.ipynb` notebook in Jupyter or any compatible environment.
 
 Model Evaluation
 ----------------
